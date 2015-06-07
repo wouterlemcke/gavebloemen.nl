@@ -1,0 +1,7 @@
+# database
+database.driver: 'pdo_mysql'
+database.dbname: ''
+database.host: ''
+database.user: ''
+database.password: ''
+database.charset: 'utf8'

@@ -1,8 +1,11 @@
 {
     "require": {
         "silex/silex": "~1.2",
-		"symfony/config": "~2.6.5",
-		"symfony/yaml": "~2.6.5"
+        "symfony/config": "~2.6.5",
+        "symfony/yaml": "~2.6.5",
+        "twig/twig": "~1.0",
+        "jasongrimes/silex-simpleuser": "*",
+        "igorw/config-service-provider": "~1.2.2"
     },
 	"autoload": {
     "psr-4": {
